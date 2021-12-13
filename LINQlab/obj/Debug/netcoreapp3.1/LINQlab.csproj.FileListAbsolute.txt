@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\bin\Debug\netcoreapp3.1\LINQlab.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\bin\Debug\netcoreapp3.1\LINQlab.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\bin\Debug\netcoreapp3.1\LINQlab.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\bin\Debug\netcoreapp3.1\LINQlab.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\bin\Debug\netcoreapp3.1\LINQlab.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\bin\Debug\netcoreapp3.1\LINQlab.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\LINQlab\LINQlab\obj\Debug\netcoreapp3.1\LINQlab.genruntimeconfig.cache
